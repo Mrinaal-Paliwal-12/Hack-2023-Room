@@ -1,0 +1,1562 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendar/events",
+  "value": [
+    {
+      "@odata.etag": "W/\"SRqvhz6JFUepmTdCGQn9pgAFrsSU+w==\"",
+      "id": "AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAENAABJGq_HPokVR6mZN0IZCf2mAAWuV0eYAAA=",
+      "createdDateTime": "2023-03-15T12:58:46.0615427Z",
+      "lastModifiedDateTime": "2023-03-15T13:07:14.3893331Z",
+      "changeKey": "SRqvhz6JFUepmTdCGQn9pgAFrsSU+w==",
+      "categories": [],
+      "transactionId": null,
+      "originalStartTimeZone": "India Standard Time",
+      "originalEndTimeZone": "India Standard Time",
+      "iCalUId": "040000008200E00074C5B7101A82E0080000000010E543EC6B57D90100000000000000001000000065CC6162F56280488AEA64071CB0C811",
+      "reminderMinutesBeforeStart": 15,
+      "isReminderOn": false,
+      "hasAttachments": false,
+      "subject": "Kevin Hill ",
+      "bodyPreview": "",
+      "importance": "normal",
+      "sensitivity": "normal",
+      "isAllDay": false,
+      "isCancelled": false,
+      "isOrganizer": false,
+      "responseRequested": true,
+      "seriesMasterId": null,
+      "showAs": "busy",
+      "type": "singleInstance",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq%2BHPokVR6mZN0IZCf2mAAAAAAENAABJGq%2BHPokVR6mZN0IZCf2mAAWuV0eYAAA%3D&exvsurl=1&path=/calendar/item",
+      "onlineMeetingUrl": null,
+      "isOnlineMeeting": true,
+      "onlineMeetingProvider": "teamsForBusiness",
+      "allowNewTimeProposals": true,
+      "occurrenceId": null,
+      "isDraft": false,
+      "hideAttendees": false,
+      "responseStatus": {
+        "response": "accepted",
+        "time": "2023-03-15T13:05:37.7369105Z"
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta name=\"Generator\" content=\"Microsoft Exchange Server\">\r\n<!-- converted from text -->\r\n<style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head>\r\n<body>\r\n<font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font>\r\n</body>\r\n</html>\r\n"
+      },
+      "start": {
+        "dateTime": "2023-03-20T05:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-03-20T07:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Microsoft Teams Meeting; Symphony; Autumn",
+        "locationType": "default",
+        "uniqueId": "Microsoft Teams Meeting; Symphony; Autumn",
+        "uniqueIdType": "private"
+      },
+      "locations": [
+        {
+          "displayName": "Microsoft Teams Meeting",
+          "locationType": "default",
+          "uniqueId": "Microsoft Teams Meeting",
+          "uniqueIdType": "private"
+        },
+        {
+          "displayName": "Symphony",
+          "locationUri": "symphony@asianpaints.com",
+          "locationType": "conferenceRoom",
+          "uniqueId": "symphony@asianpaints.com",
+          "uniqueIdType": "directory",
+          "address": {
+            "street": "",
+            "city": "",
+            "state": "",
+            "countryOrRegion": "",
+            "postalCode": ""
+          },
+          "coordinates": {}
+        },
+        {
+          "displayName": "Autumn",
+          "locationUri": "autumn@asianpaints.com",
+          "locationType": "conferenceRoom",
+          "uniqueId": "autumn@asianpaints.com",
+          "uniqueIdType": "directory",
+          "address": {
+            "street": "",
+            "city": "",
+            "state": "",
+            "countryOrRegion": "",
+            "postalCode": ""
+          },
+          "coordinates": {}
+        }
+      ],
+      "recurrence": null,
+      "attendees": [
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Kevin Hill",
+            "address": "kevin.hill@asianpaints.com"
+          }
+        },
+        {
+          "type": "resource",
+          "status": {
+            "response": "declined",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Symphony",
+            "address": "symphony@asianpaints.com"
+          }
+        },
+        {
+          "type": "resource",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Autumn",
+            "address": "autumn@asianpaints.com"
+          }
+        }
+      ],
+      "organizer": {
+        "emailAddress": {
+          "name": "Kevin Hill",
+          "address": "kevin.hill@asianpaints.com"
+        }
+      },
+      "onlineMeeting": {
+        "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjgxZDZmNDAtODNlNS00NWFmLWEyOWQtMmQ5NjkzOWZiOWJj%40thread.v2/0?context=%7b%22Tid%22%3a%2240780475-3f43-4eda-9ea3-1aa893ead7a5%22%2c%22Oid%22%3a%2251974e02-35dc-4edd-86a6-11fb527b741a%22%7d"
+      },
+      "calendar@odata.associationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')/$ref",
+      "calendar@odata.navigationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')"
+    },
+    {
+      "@odata.etag": "W/\"SRqvhz6JFUepmTdCGQn9pgAFrsSReA==\"",
+      "id": "AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAENAABJGq_HPokVR6mZN0IZCf2mAAWuV0eXAAA=",
+      "createdDateTime": "2023-03-15T09:21:16.8616772Z",
+      "lastModifiedDateTime": "2023-03-15T09:41:29.6074407Z",
+      "changeKey": "SRqvhz6JFUepmTdCGQn9pgAFrsSReA==",
+      "categories": [],
+      "transactionId": null,
+      "originalStartTimeZone": "India Standard Time",
+      "originalEndTimeZone": "India Standard Time",
+      "iCalUId": "040000008200E00074C5B7101A82E0080000000070DE4B1D4D57D9010000000000000000100000003889E02812C81A4D91A8F70F52F82BA1",
+      "reminderMinutesBeforeStart": 15,
+      "isReminderOn": false,
+      "hasAttachments": false,
+      "subject": "Mohammad Mubasshir Quadri ",
+      "bodyPreview": "",
+      "importance": "normal",
+      "sensitivity": "normal",
+      "isAllDay": false,
+      "isCancelled": false,
+      "isOrganizer": false,
+      "responseRequested": true,
+      "seriesMasterId": null,
+      "showAs": "busy",
+      "type": "singleInstance",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq%2BHPokVR6mZN0IZCf2mAAAAAAENAABJGq%2BHPokVR6mZN0IZCf2mAAWuV0eXAAA%3D&exvsurl=1&path=/calendar/item",
+      "onlineMeetingUrl": null,
+      "isOnlineMeeting": false,
+      "onlineMeetingProvider": "unknown",
+      "allowNewTimeProposals": true,
+      "occurrenceId": null,
+      "isDraft": false,
+      "hideAttendees": false,
+      "responseStatus": {
+        "response": "accepted",
+        "time": "2023-03-15T09:21:19.9399912Z"
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta name=\"Generator\" content=\"Microsoft Exchange Server\">\r\n<!-- converted from text -->\r\n<style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head>\r\n<body>\r\n<font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font>\r\n</body>\r\n</html>\r\n"
+      },
+      "start": {
+        "dateTime": "2023-03-15T11:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-03-15T12:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Autumn",
+        "locationType": "default",
+        "uniqueId": "Autumn",
+        "uniqueIdType": "private"
+      },
+      "locations": [
+        {
+          "displayName": "Autumn",
+          "locationUri": "autumn@asianpaints.com",
+          "locationType": "conferenceRoom",
+          "uniqueId": "autumn@asianpaints.com",
+          "uniqueIdType": "directory",
+          "address": {
+            "street": "",
+            "city": "",
+            "state": "",
+            "countryOrRegion": "",
+            "postalCode": ""
+          },
+          "coordinates": {}
+        }
+      ],
+      "recurrence": null,
+      "attendees": [
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Mohammad Mubasshir Quadri",
+            "address": "mohammadmubasshir.quadri@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Himanshu Maru",
+            "address": "himanshu.maru@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Vinay Raymagiya",
+            "address": "vinay.raymagiya@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Mrigank Baranwal",
+            "address": "mrigank.baranwal@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Amey Chavan",
+            "address": "amey.chavan@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Diby Chiriyamkandath",
+            "address": "diby.c@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Kevin Hill",
+            "address": "kevin.hill@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Kiran Kumar R",
+            "address": "kirankumar.r@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Suraj Vishwakarma",
+            "address": "suraj.vishwakarma@asianpaints.com"
+          }
+        },
+        {
+          "type": "resource",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Autumn",
+            "address": "autumn@asianpaints.com"
+          }
+        }
+      ],
+      "organizer": {
+        "emailAddress": {
+          "name": "Mohammad Mubasshir Quadri",
+          "address": "mohammadmubasshir.quadri@asianpaints.com"
+        }
+      },
+      "onlineMeeting": null,
+      "calendar@odata.associationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')/$ref",
+      "calendar@odata.navigationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')"
+    },
+    {
+      "@odata.etag": "W/\"SRqvhz6JFUepmTdCGQn9pgAFrsSN0w==\"",
+      "id": "AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAENAABJGq_HPokVR6mZN0IZCf2mAAWuV0eVAAA=",
+      "createdDateTime": "2023-03-15T04:30:31.8150596Z",
+      "lastModifiedDateTime": "2023-03-15T04:46:40.3895344Z",
+      "changeKey": "SRqvhz6JFUepmTdCGQn9pgAFrsSN0w==",
+      "categories": [],
+      "transactionId": null,
+      "originalStartTimeZone": "India Standard Time",
+      "originalEndTimeZone": "India Standard Time",
+      "iCalUId": "040000008200E00074C5B7101A82E00800000000492218DCF656D9010000000000000000100000008A0F7A69C289724189275A4515B00819",
+      "reminderMinutesBeforeStart": 15,
+      "isReminderOn": false,
+      "hasAttachments": false,
+      "subject": "Ryan Nambiar ",
+      "bodyPreview": "",
+      "importance": "normal",
+      "sensitivity": "normal",
+      "isAllDay": false,
+      "isCancelled": false,
+      "isOrganizer": false,
+      "responseRequested": true,
+      "seriesMasterId": null,
+      "showAs": "busy",
+      "type": "singleInstance",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq%2BHPokVR6mZN0IZCf2mAAAAAAENAABJGq%2BHPokVR6mZN0IZCf2mAAWuV0eVAAA%3D&exvsurl=1&path=/calendar/item",
+      "onlineMeetingUrl": null,
+      "isOnlineMeeting": true,
+      "onlineMeetingProvider": "teamsForBusiness",
+      "allowNewTimeProposals": true,
+      "occurrenceId": null,
+      "isDraft": false,
+      "hideAttendees": false,
+      "responseStatus": {
+        "response": "accepted",
+        "time": "2023-03-15T04:30:33.3953335Z"
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta name=\"Generator\" content=\"Microsoft Exchange Server\">\r\n<!-- converted from text -->\r\n<style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head>\r\n<body>\r\n<font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font>\r\n</body>\r\n</html>\r\n"
+      },
+      "start": {
+        "dateTime": "2023-03-15T10:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-03-15T11:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Autumn",
+        "locationType": "default",
+        "uniqueId": "Autumn",
+        "uniqueIdType": "private"
+      },
+      "locations": [
+        {
+          "displayName": "Autumn",
+          "locationType": "default",
+          "uniqueId": "Autumn",
+          "uniqueIdType": "private"
+        }
+      ],
+      "recurrence": null,
+      "attendees": [
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Ryan Nambiar",
+            "address": "ryan.nambiar@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "declined",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Amey Nandedkar",
+            "address": "amey.nandedkar@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Ninad Deshpande",
+            "address": "ninad.deshpande@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Fatema Najafi",
+            "address": "fatema.najafi@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Mohammad Mubasshir Quadri",
+            "address": "mohammadmubasshir.quadri@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Gunnam Naveen Kumar",
+            "address": "gunnam.naveenkumar@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Deepak Patkar",
+            "address": "deepak.patkar@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Apoorv Trivedi",
+            "address": "apoorv.trivedi.pt@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Sandipa Dusa",
+            "address": "sandipa.veldandi@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Shubhi Sharma",
+            "address": "shubhi.sharma@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Kartik Meher",
+            "address": "kartik.meher@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Jayaraj Gundabattula",
+            "address": "jayaraj.gundabattula@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Harshvardhan",
+            "address": "harshvardhan.pt@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Sujana R",
+            "address": "sujana.r.pt@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Pranesh A",
+            "address": "pranesh.a@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Shraddha Sawant Desai",
+            "address": "shraddha.sawantdesai@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Himanshu Maru",
+            "address": "himanshu.maru@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Aashna Desai",
+            "address": "aashna.desai@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Ashwin Kesavan",
+            "address": "ashwin.kesavan@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Prathmesh Khedekar",
+            "address": "prathmesh.khedekar@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Sunny Yadav",
+            "address": "sunny.yadav.pt@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Yatish Sharma",
+            "address": "yatish.sharma@asianpaints.com"
+          }
+        },
+        {
+          "type": "resource",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Autumn",
+            "address": "autumn@asianpaints.com"
+          }
+        }
+      ],
+      "organizer": {
+        "emailAddress": {
+          "name": "Ryan Nambiar",
+          "address": "ryan.nambiar@asianpaints.com"
+        }
+      },
+      "onlineMeeting": {
+        "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWI2MGU4NzItNGUxOS00MzE4LTg4ZDktOWI4MThhMmRhNWI3%40thread.v2/0?context=%7b%22Tid%22%3a%2240780475-3f43-4eda-9ea3-1aa893ead7a5%22%2c%22Oid%22%3a%2264e9bd0e-78c0-48e7-a0a3-5077a4d7828a%22%7d"
+      },
+      "calendar@odata.associationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')/$ref",
+      "calendar@odata.navigationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')"
+    },
+    {
+      "@odata.etag": "W/\"SRqvhz6JFUepmTdCGQn9pgAFrfQ4jA==\"",
+      "id": "AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAENAABJGq_HPokVR6mZN0IZCf2mAAWthtzoAAA=",
+      "createdDateTime": "2023-03-14T11:07:43.172684Z",
+      "lastModifiedDateTime": "2023-03-14T11:11:20.7887955Z",
+      "changeKey": "SRqvhz6JFUepmTdCGQn9pgAFrfQ4jA==",
+      "categories": [],
+      "transactionId": null,
+      "originalStartTimeZone": "India Standard Time",
+      "originalEndTimeZone": "India Standard Time",
+      "iCalUId": "040000008200E00074C5B7101A82E008000000007AB2D12F6556D9010000000000000000100000008FA6BC3D16C1B64EA5E34347DE1B2E7D",
+      "reminderMinutesBeforeStart": 15,
+      "isReminderOn": false,
+      "hasAttachments": false,
+      "subject": "Abhishek Gautam ",
+      "bodyPreview": "",
+      "importance": "normal",
+      "sensitivity": "normal",
+      "isAllDay": false,
+      "isCancelled": false,
+      "isOrganizer": false,
+      "responseRequested": true,
+      "seriesMasterId": null,
+      "showAs": "busy",
+      "type": "singleInstance",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq%2BHPokVR6mZN0IZCf2mAAAAAAENAABJGq%2BHPokVR6mZN0IZCf2mAAWthtzoAAA%3D&exvsurl=1&path=/calendar/item",
+      "onlineMeetingUrl": null,
+      "isOnlineMeeting": true,
+      "onlineMeetingProvider": "teamsForBusiness",
+      "allowNewTimeProposals": true,
+      "occurrenceId": null,
+      "isDraft": false,
+      "hideAttendees": false,
+      "responseStatus": {
+        "response": "accepted",
+        "time": "2023-03-14T11:07:44.8298839Z"
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta name=\"Generator\" content=\"Microsoft Exchange Server\">\r\n<!-- converted from text -->\r\n<style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head>\r\n<body>\r\n<font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font>\r\n</body>\r\n</html>\r\n"
+      },
+      "start": {
+        "dateTime": "2023-03-21T10:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-03-21T10:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Autumn",
+        "locationType": "default",
+        "uniqueId": "Autumn",
+        "uniqueIdType": "private"
+      },
+      "locations": [
+        {
+          "displayName": "Autumn",
+          "locationType": "default",
+          "uniqueId": "Autumn",
+          "uniqueIdType": "private"
+        }
+      ],
+      "recurrence": null,
+      "attendees": [
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Abhishek Gautam",
+            "address": "abhishek.gautam@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Shailendra Sharma",
+            "address": "shailendra.sharma@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "O N Praneeth",
+            "address": "praneeth.on@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Abhishek Anand",
+            "address": "abhishek.anand@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Amit Barnawal",
+            "address": "amit.barnawal@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Harish Kumar",
+            "address": "harish.kumar@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Pulkit Jain",
+            "address": "pulkit.jain@asianpaints.com"
+          }
+        },
+        {
+          "type": "resource",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Autumn",
+            "address": "autumn@asianpaints.com"
+          }
+        }
+      ],
+      "organizer": {
+        "emailAddress": {
+          "name": "Abhishek Gautam",
+          "address": "abhishek.gautam@asianpaints.com"
+        }
+      },
+      "onlineMeeting": {
+        "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmIxM2ZmNmItNDkzMy00MDhkLWJiYzYtMzIyMmFmM2FlOGRh%40thread.v2/0?context=%7b%22Tid%22%3a%2240780475-3f43-4eda-9ea3-1aa893ead7a5%22%2c%22Oid%22%3a%22647d1631-1b35-4caf-b3bd-5b2be0a521f8%22%7d"
+      },
+      "calendar@odata.associationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')/$ref",
+      "calendar@odata.navigationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')"
+    },
+    {
+      "@odata.etag": "W/\"SRqvhz6JFUepmTdCGQn9pgAFrfQ4lA==\"",
+      "id": "AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAENAABJGq_HPokVR6mZN0IZCf2mAAWthtzmAAA=",
+      "createdDateTime": "2023-03-14T10:48:55.6056763Z",
+      "lastModifiedDateTime": "2023-03-14T11:11:41.359929Z",
+      "changeKey": "SRqvhz6JFUepmTdCGQn9pgAFrfQ4lA==",
+      "categories": [],
+      "transactionId": null,
+      "originalStartTimeZone": "India Standard Time",
+      "originalEndTimeZone": "India Standard Time",
+      "iCalUId": "040000008200E00074C5B7101A82E008000000004013EEA69056D901000000000000000010000000B9F5CCF7F1E6134B9C336F76F2CE6214",
+      "reminderMinutesBeforeStart": 15,
+      "isReminderOn": false,
+      "hasAttachments": false,
+      "subject": "Rahul V N ",
+      "bodyPreview": "",
+      "importance": "normal",
+      "sensitivity": "normal",
+      "isAllDay": false,
+      "isCancelled": false,
+      "isOrganizer": false,
+      "responseRequested": true,
+      "seriesMasterId": null,
+      "showAs": "busy",
+      "type": "singleInstance",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq%2BHPokVR6mZN0IZCf2mAAAAAAENAABJGq%2BHPokVR6mZN0IZCf2mAAWthtzmAAA%3D&exvsurl=1&path=/calendar/item",
+      "onlineMeetingUrl": null,
+      "isOnlineMeeting": true,
+      "onlineMeetingProvider": "teamsForBusiness",
+      "allowNewTimeProposals": true,
+      "occurrenceId": null,
+      "isDraft": false,
+      "hideAttendees": false,
+      "responseStatus": {
+        "response": "accepted",
+        "time": "2023-03-14T10:48:57.0598191Z"
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta name=\"Generator\" content=\"Microsoft Exchange Server\">\r\n<!-- converted from text -->\r\n<style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head>\r\n<body>\r\n<font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font>\r\n</body>\r\n</html>\r\n"
+      },
+      "start": {
+        "dateTime": "2023-03-19T08:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-03-19T14:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Microsoft Teams Meeting",
+        "locationType": "default",
+        "uniqueId": "Microsoft Teams Meeting",
+        "uniqueIdType": "private"
+      },
+      "locations": [
+        {
+          "displayName": "Microsoft Teams Meeting",
+          "locationType": "default",
+          "uniqueId": "Microsoft Teams Meeting",
+          "uniqueIdType": "private"
+        }
+      ],
+      "recurrence": null,
+      "attendees": [
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Rahul V N",
+            "address": "rahul.vn@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Autumn",
+            "address": "autumn@asianpaints.com"
+          }
+        }
+      ],
+      "organizer": {
+        "emailAddress": {
+          "name": "Rahul V N",
+          "address": "rahul.vn@asianpaints.com"
+        }
+      },
+      "onlineMeeting": {
+        "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDU3NmY5YTctY2IwZC00YWVjLWFiM2QtOTcwZTk5ZjQxOGIx%40thread.v2/0?context=%7b%22Tid%22%3a%2240780475-3f43-4eda-9ea3-1aa893ead7a5%22%2c%22Oid%22%3a%2289d5ce0b-77c6-4656-8faf-3bf2e24822dd%22%7d"
+      },
+      "calendar@odata.associationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')/$ref",
+      "calendar@odata.navigationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')"
+    },
+    {
+      "@odata.etag": "W/\"SRqvhz6JFUepmTdCGQn9pgAFrfQ4LQ==\"",
+      "id": "AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAENAABJGq_HPokVR6mZN0IZCf2mAAWthtzlAAA=",
+      "createdDateTime": "2023-03-14T09:57:37.634133Z",
+      "lastModifiedDateTime": "2023-03-14T11:00:42.1703571Z",
+      "changeKey": "SRqvhz6JFUepmTdCGQn9pgAFrfQ4LQ==",
+      "categories": [],
+      "transactionId": null,
+      "originalStartTimeZone": "India Standard Time",
+      "originalEndTimeZone": "India Standard Time",
+      "iCalUId": "040000008200E00074C5B7101A82E0080000000010FDC85A8956D9010000000000000000100000007F8914CA38BA164DB09A5335ED4E24A1",
+      "reminderMinutesBeforeStart": 15,
+      "isReminderOn": false,
+      "hasAttachments": false,
+      "subject": "Nagarajan S ",
+      "bodyPreview": "",
+      "importance": "normal",
+      "sensitivity": "normal",
+      "isAllDay": false,
+      "isCancelled": false,
+      "isOrganizer": false,
+      "responseRequested": true,
+      "seriesMasterId": null,
+      "showAs": "busy",
+      "type": "singleInstance",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq%2BHPokVR6mZN0IZCf2mAAAAAAENAABJGq%2BHPokVR6mZN0IZCf2mAAWthtzlAAA%3D&exvsurl=1&path=/calendar/item",
+      "onlineMeetingUrl": null,
+      "isOnlineMeeting": true,
+      "onlineMeetingProvider": "teamsForBusiness",
+      "allowNewTimeProposals": true,
+      "occurrenceId": null,
+      "isDraft": false,
+      "hideAttendees": false,
+      "responseStatus": {
+        "response": "accepted",
+        "time": "2023-03-14T09:57:39.542398Z"
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta name=\"Generator\" content=\"Microsoft Exchange Server\">\r\n<!-- converted from text -->\r\n<style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head>\r\n<body>\r\n<font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font>\r\n</body>\r\n</html>\r\n"
+      },
+      "start": {
+        "dateTime": "2023-03-14T11:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-03-14T12:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Microsoft Teams Meeting; Autumn",
+        "locationType": "default",
+        "uniqueId": "Microsoft Teams Meeting; Autumn",
+        "uniqueIdType": "private"
+      },
+      "locations": [
+        {
+          "displayName": "Microsoft Teams Meeting",
+          "locationType": "default",
+          "uniqueId": "Microsoft Teams Meeting",
+          "uniqueIdType": "private"
+        },
+        {
+          "displayName": "Autumn",
+          "locationUri": "autumn@asianpaints.com",
+          "locationType": "conferenceRoom",
+          "uniqueId": "autumn@asianpaints.com",
+          "uniqueIdType": "directory",
+          "address": {
+            "street": "",
+            "city": "",
+            "state": "",
+            "countryOrRegion": "",
+            "postalCode": ""
+          },
+          "coordinates": {}
+        }
+      ],
+      "recurrence": null,
+      "attendees": [
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Nagarajan S",
+            "address": "nagarajan.s@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "SIDDHANT KHOLKAR",
+            "address": "siddhant.kholkar@asianpaints.com"
+          }
+        },
+        {
+          "type": "resource",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Autumn",
+            "address": "autumn@asianpaints.com"
+          }
+        }
+      ],
+      "organizer": {
+        "emailAddress": {
+          "name": "Nagarajan S",
+          "address": "nagarajan.s@asianpaints.com"
+        }
+      },
+      "onlineMeeting": {
+        "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWViZjNhMjgtY2M5MS00Yjk2LWI1ZjMtZjczZjlkZWEyMmFl%40thread.v2/0?context=%7b%22Tid%22%3a%2240780475-3f43-4eda-9ea3-1aa893ead7a5%22%2c%22Oid%22%3a%22f95530b4-d0ea-4b9d-a2d3-6c294e6b74a7%22%7d"
+      },
+      "calendar@odata.associationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')/$ref",
+      "calendar@odata.navigationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')"
+    },
+    {
+      "@odata.etag": "W/\"SRqvhz6JFUepmTdCGQn9pgAFrfQ2SA==\"",
+      "id": "AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAENAABJGq_HPokVR6mZN0IZCf2mAAWthtzkAAA=",
+      "createdDateTime": "2023-03-14T07:00:50.8728009Z",
+      "lastModifiedDateTime": "2023-03-14T07:00:53.7029404Z",
+      "changeKey": "SRqvhz6JFUepmTdCGQn9pgAFrfQ2SA==",
+      "categories": [],
+      "transactionId": null,
+      "originalStartTimeZone": "India Standard Time",
+      "originalEndTimeZone": "India Standard Time",
+      "iCalUId": "040000008200E00074C5B7101A82E00800000000FBF9C5B24256D9010000000000000000100000000B2F485B0971FA47B526F2BDBED8A3AB",
+      "reminderMinutesBeforeStart": 15,
+      "isReminderOn": false,
+      "hasAttachments": false,
+      "subject": "Deepak Patkar ",
+      "bodyPreview": "",
+      "importance": "normal",
+      "sensitivity": "normal",
+      "isAllDay": false,
+      "isCancelled": false,
+      "isOrganizer": false,
+      "responseRequested": true,
+      "seriesMasterId": null,
+      "showAs": "busy",
+      "type": "singleInstance",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq%2BHPokVR6mZN0IZCf2mAAAAAAENAABJGq%2BHPokVR6mZN0IZCf2mAAWthtzkAAA%3D&exvsurl=1&path=/calendar/item",
+      "onlineMeetingUrl": "",
+      "isOnlineMeeting": false,
+      "onlineMeetingProvider": "unknown",
+      "allowNewTimeProposals": true,
+      "occurrenceId": null,
+      "isDraft": false,
+      "hideAttendees": false,
+      "responseStatus": {
+        "response": "accepted",
+        "time": "2023-03-14T07:00:52.9830949Z"
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta name=\"Generator\" content=\"Microsoft Exchange Server\">\r\n<!-- converted from text -->\r\n<style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head>\r\n<body>\r\n<font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font>\r\n</body>\r\n</html>\r\n"
+      },
+      "start": {
+        "dateTime": "2023-03-23T09:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-03-23T10:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Autumn",
+        "locationUri": "autumn@asianpaints.com",
+        "locationType": "conferenceRoom",
+        "uniqueId": "autumn@asianpaints.com",
+        "uniqueIdType": "directory",
+        "address": {
+          "street": "",
+          "city": "",
+          "state": "",
+          "countryOrRegion": "IN",
+          "postalCode": ""
+        },
+        "coordinates": {}
+      },
+      "locations": [
+        {
+          "displayName": "Autumn",
+          "locationUri": "autumn@asianpaints.com",
+          "locationType": "conferenceRoom",
+          "uniqueId": "autumn@asianpaints.com",
+          "uniqueIdType": "directory",
+          "address": {
+            "street": "",
+            "city": "",
+            "state": "",
+            "countryOrRegion": "IN",
+            "postalCode": ""
+          },
+          "coordinates": {}
+        }
+      ],
+      "recurrence": null,
+      "attendees": [
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Deepak Patkar",
+            "address": "deepak.patkar@asianpaints.com"
+          }
+        },
+        {
+          "type": "optional",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Autumn",
+            "address": "autumn@asianpaints.com"
+          }
+        }
+      ],
+      "organizer": {
+        "emailAddress": {
+          "name": "Deepak Patkar",
+          "address": "deepak.patkar@asianpaints.com"
+        }
+      },
+      "onlineMeeting": null,
+      "calendar@odata.associationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')/$ref",
+      "calendar@odata.navigationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')"
+    },
+    {
+      "@odata.etag": "W/\"SRqvhz6JFUepmTdCGQn9pgAFrfQ1Zw==\"",
+      "id": "AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAENAABJGq_HPokVR6mZN0IZCf2mAAWthtzhAAA=",
+      "createdDateTime": "2023-03-14T05:34:36.9414763Z",
+      "lastModifiedDateTime": "2023-03-14T05:40:31.4927886Z",
+      "changeKey": "SRqvhz6JFUepmTdCGQn9pgAFrfQ1Zw==",
+      "categories": [],
+      "transactionId": null,
+      "originalStartTimeZone": "India Standard Time",
+      "originalEndTimeZone": "India Standard Time",
+      "iCalUId": "040000008200E00074C5B7101A82E008000000009CE690A63656D9010000000000000000100000007A1585CE27DFA54DAA3D62F4D0A5D3B8",
+      "reminderMinutesBeforeStart": 15,
+      "isReminderOn": false,
+      "hasAttachments": false,
+      "subject": "Suman Kumar ",
+      "bodyPreview": "",
+      "importance": "normal",
+      "sensitivity": "normal",
+      "isAllDay": false,
+      "isCancelled": false,
+      "isOrganizer": false,
+      "responseRequested": true,
+      "seriesMasterId": null,
+      "showAs": "busy",
+      "type": "singleInstance",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq%2BHPokVR6mZN0IZCf2mAAAAAAENAABJGq%2BHPokVR6mZN0IZCf2mAAWthtzhAAA%3D&exvsurl=1&path=/calendar/item",
+      "onlineMeetingUrl": null,
+      "isOnlineMeeting": true,
+      "onlineMeetingProvider": "teamsForBusiness",
+      "allowNewTimeProposals": true,
+      "occurrenceId": null,
+      "isDraft": false,
+      "hideAttendees": false,
+      "responseStatus": {
+        "response": "accepted",
+        "time": "2023-03-14T05:34:38.4437831Z"
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta name=\"Generator\" content=\"Microsoft Exchange Server\">\r\n<!-- converted from text -->\r\n<style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head>\r\n<body>\r\n<font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font>\r\n</body>\r\n</html>\r\n"
+      },
+      "start": {
+        "dateTime": "2023-03-14T09:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-03-14T10:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Autumn",
+        "locationType": "default",
+        "uniqueId": "Autumn",
+        "uniqueIdType": "private"
+      },
+      "locations": [
+        {
+          "displayName": "Autumn",
+          "locationType": "default",
+          "uniqueId": "Autumn",
+          "uniqueIdType": "private"
+        }
+      ],
+      "recurrence": null,
+      "attendees": [
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Suman Kumar",
+            "address": "kumar.suman@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Nilesh Karpe",
+            "address": "nilesh.karpe@asianpaints.com"
+          }
+        },
+        {
+          "type": "resource",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Autumn",
+            "address": "autumn@asianpaints.com"
+          }
+        }
+      ],
+      "organizer": {
+        "emailAddress": {
+          "name": "Suman Kumar",
+          "address": "kumar.suman@asianpaints.com"
+        }
+      },
+      "onlineMeeting": {
+        "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWFlZWY0YzYtMjI3Ny00YTE1LWEzOWEtOTg1OTg1NTYwNjI4%40thread.v2/0?context=%7b%22Tid%22%3a%2240780475-3f43-4eda-9ea3-1aa893ead7a5%22%2c%22Oid%22%3a%228005c3d4-717b-4e16-b301-e422349be8ea%22%7d"
+      },
+      "calendar@odata.associationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')/$ref",
+      "calendar@odata.navigationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')"
+    },
+    {
+      "@odata.etag": "W/\"SRqvhz6JFUepmTdCGQn9pgAFrNEDtQ==\"",
+      "id": "AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAENAABJGq_HPokVR6mZN0IZCf2mAAWsY1z0AAA=",
+      "createdDateTime": "2023-03-13T11:21:19.0257155Z",
+      "lastModifiedDateTime": "2023-03-13T11:41:26.6674693Z",
+      "changeKey": "SRqvhz6JFUepmTdCGQn9pgAFrNEDtQ==",
+      "categories": [],
+      "transactionId": null,
+      "originalStartTimeZone": "India Standard Time",
+      "originalEndTimeZone": "India Standard Time",
+      "iCalUId": "040000008200E00074C5B7101A82E008000000000357E3659D55D9010000000000000000100000000F1B62D5C863D041BFBCC3CDF458191C",
+      "reminderMinutesBeforeStart": 15,
+      "isReminderOn": false,
+      "hasAttachments": false,
+      "subject": "Rahul V N ",
+      "bodyPreview": "",
+      "importance": "normal",
+      "sensitivity": "normal",
+      "isAllDay": false,
+      "isCancelled": false,
+      "isOrganizer": false,
+      "responseRequested": true,
+      "seriesMasterId": null,
+      "showAs": "busy",
+      "type": "singleInstance",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq%2BHPokVR6mZN0IZCf2mAAAAAAENAABJGq%2BHPokVR6mZN0IZCf2mAAWsY1z0AAA%3D&exvsurl=1&path=/calendar/item",
+      "onlineMeetingUrl": null,
+      "isOnlineMeeting": true,
+      "onlineMeetingProvider": "teamsForBusiness",
+      "allowNewTimeProposals": true,
+      "occurrenceId": null,
+      "isDraft": false,
+      "hideAttendees": false,
+      "responseStatus": {
+        "response": "accepted",
+        "time": "2023-03-13T11:21:22.1648166Z"
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta name=\"Generator\" content=\"Microsoft Exchange Server\">\r\n<!-- converted from text -->\r\n<style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head>\r\n<body>\r\n<font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font>\r\n</body>\r\n</html>\r\n"
+      },
+      "start": {
+        "dateTime": "2023-03-14T12:00:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-03-14T12:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Microsoft Teams Meeting",
+        "locationType": "default",
+        "uniqueId": "Microsoft Teams Meeting",
+        "uniqueIdType": "private"
+      },
+      "locations": [
+        {
+          "displayName": "Microsoft Teams Meeting",
+          "locationType": "default",
+          "uniqueId": "Microsoft Teams Meeting",
+          "uniqueIdType": "private"
+        }
+      ],
+      "recurrence": null,
+      "attendees": [
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Rahul V N",
+            "address": "rahul.vn@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Aseem Agrawal",
+            "address": "aseem.agrawal@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "AZIZ SHAHDAWALA",
+            "address": "aziz.shahdawala@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Autumn",
+            "address": "autumn@asianpaints.com"
+          }
+        }
+      ],
+      "organizer": {
+        "emailAddress": {
+          "name": "Rahul V N",
+          "address": "rahul.vn@asianpaints.com"
+        }
+      },
+      "onlineMeeting": {
+        "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzAzMGYxZDItYjI2Ni00N2U0LWIyMTItN2ZjZTFhNjRkODcx%40thread.v2/0?context=%7b%22Tid%22%3a%2240780475-3f43-4eda-9ea3-1aa893ead7a5%22%2c%22Oid%22%3a%2289d5ce0b-77c6-4656-8faf-3bf2e24822dd%22%7d"
+      },
+      "calendar@odata.associationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')/$ref",
+      "calendar@odata.navigationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')"
+    },
+    {
+      "@odata.etag": "W/\"SRqvhz6JFUepmTdCGQn9pgAFrND+Rg==\"",
+      "id": "AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAENAABJGq_HPokVR6mZN0IZCf2mAAWsY1zyAAA=",
+      "createdDateTime": "2023-03-13T08:55:31.3447096Z",
+      "lastModifiedDateTime": "2023-03-13T08:58:54.5852658Z",
+      "changeKey": "SRqvhz6JFUepmTdCGQn9pgAFrND+Rg==",
+      "categories": [],
+      "transactionId": null,
+      "originalStartTimeZone": "India Standard Time",
+      "originalEndTimeZone": "India Standard Time",
+      "iCalUId": "040000008200E00074C5B7101A82E008000000002016F564B755D9010000000000000000100000004E86D9B0C349C04E8BFFDC9D7662BFC4",
+      "reminderMinutesBeforeStart": 15,
+      "isReminderOn": false,
+      "hasAttachments": false,
+      "subject": "Amey Nandedkar ",
+      "bodyPreview": "",
+      "importance": "normal",
+      "sensitivity": "normal",
+      "isAllDay": false,
+      "isCancelled": false,
+      "isOrganizer": false,
+      "responseRequested": true,
+      "seriesMasterId": null,
+      "showAs": "busy",
+      "type": "singleInstance",
+      "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq%2BHPokVR6mZN0IZCf2mAAAAAAENAABJGq%2BHPokVR6mZN0IZCf2mAAWsY1zyAAA%3D&exvsurl=1&path=/calendar/item",
+      "onlineMeetingUrl": null,
+      "isOnlineMeeting": true,
+      "onlineMeetingProvider": "teamsForBusiness",
+      "allowNewTimeProposals": true,
+      "occurrenceId": null,
+      "isDraft": false,
+      "hideAttendees": false,
+      "responseStatus": {
+        "response": "accepted",
+        "time": "2023-03-13T08:57:21.1119042Z"
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta name=\"Generator\" content=\"Microsoft Exchange Server\">\r\n<!-- converted from text -->\r\n<style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head>\r\n<body>\r\n<font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font>\r\n</body>\r\n</html>\r\n"
+      },
+      "start": {
+        "dateTime": "2023-03-28T05:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "end": {
+        "dateTime": "2023-03-28T10:30:00.0000000",
+        "timeZone": "UTC"
+      },
+      "location": {
+        "displayName": "Microsoft Teams Meeting; Autumn",
+        "locationType": "default",
+        "uniqueId": "Microsoft Teams Meeting; Autumn",
+        "uniqueIdType": "private"
+      },
+      "locations": [
+        {
+          "displayName": "Microsoft Teams Meeting",
+          "locationType": "default",
+          "uniqueId": "Microsoft Teams Meeting",
+          "uniqueIdType": "private"
+        },
+        {
+          "displayName": "Autumn",
+          "locationUri": "autumn@asianpaints.com",
+          "locationType": "conferenceRoom",
+          "uniqueId": "autumn@asianpaints.com",
+          "uniqueIdType": "directory",
+          "address": {
+            "street": "",
+            "city": "",
+            "state": "",
+            "countryOrRegion": "",
+            "postalCode": ""
+          },
+          "coordinates": {}
+        }
+      ],
+      "recurrence": null,
+      "attendees": [
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Amey Nandedkar",
+            "address": "amey.nandedkar@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Vivek P",
+            "address": "vivek.p@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Abhishek Pillai",
+            "address": "abhishek.pillai@asianpaints.com"
+          }
+        },
+        {
+          "type": "required",
+          "status": {
+            "response": "none",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Shruthi Akshaya GS",
+            "address": "akshaya.gs@asianpaints.com"
+          }
+        },
+        {
+          "type": "resource",
+          "status": {
+            "response": "accepted",
+            "time": "0001-01-01T00:00:00Z"
+          },
+          "emailAddress": {
+            "name": "Autumn",
+            "address": "autumn@asianpaints.com"
+          }
+        }
+      ],
+      "organizer": {
+        "emailAddress": {
+          "name": "Amey Nandedkar",
+          "address": "amey.nandedkar@asianpaints.com"
+        }
+      },
+      "onlineMeeting": {
+        "joinUrl": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzYwMTI2MTQtYjY3Yi00NjkxLWI1MzctOTk3MGI1ODEzYTkz%40thread.v2/0?context=%7b%22Tid%22%3a%2240780475-3f43-4eda-9ea3-1aa893ead7a5%22%2c%22Oid%22%3a%225c00a717-6614-410b-bbc6-b60594be4e37%22%7d"
+      },
+      "calendar@odata.associationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')/$ref",
+      "calendar@odata.navigationLink": "https://graph.microsoft.com/v1.0/users('7ddc4c9c-745f-48c5-93a4-4c3578e3089d')/calendars('AAMkAGI2NzEyMGUwLWMzMGMtNGVkMy04ZmZjLTE3ZGRkNjExZDM0NwBGAAAAAACfGdroaBHyR6uWmy8R7HLrBwBJGq_HPokVR6mZN0IZCf2mAAAAAAEGAABJGq_HPokVR6mZN0IZCf2mAAJOEvlEAAA=')"
+    }
+  ],
+  "@odata.nextLink": "https://graph.microsoft.com/v1.0/users/7ddc4c9c-745f-48c5-93a4-4c3578e3089d/calendar/events?%24top=10&%24skip=10"
+}
