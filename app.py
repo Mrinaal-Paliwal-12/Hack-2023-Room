@@ -19,6 +19,7 @@ def readJson(path,date=""):
 
 from flask import Flask,request,jsonify
 import json
+import datetime
 
 app = Flask(__name__)
 
@@ -33,8 +34,14 @@ def predict():
     # result = 
 
     # return jsonify({'result':int(result)})
-    
-    return jsonify({'result':readJson((request.json),date='2023-03-21')})
+
+
+    x = datetime.datetime.now()
+
+    print(x.year)
+    print(x.strftime("%Y-%m-%d"))
+
+    return jsonify({'result':readJson((request.json),date=x.strftime("%Y-%m-%d"))})
 
 if __name__ == '__main__':
     app.run(debug=True)
